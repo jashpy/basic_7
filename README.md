@@ -1,1 +1,1 @@
-# basic_7
+abstraction and encapsulation(PYTHON)
